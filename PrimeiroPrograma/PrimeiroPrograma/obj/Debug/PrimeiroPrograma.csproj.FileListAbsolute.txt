@@ -1,0 +1,8 @@
+C:\Users\Fabricio two\source\repos\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.exe.config
+C:\Users\Fabricio two\source\repos\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.exe
+C:\Users\Fabricio two\source\repos\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.pdb
+C:\Users\Fabricio two\source\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.csproj.AssemblyReference.cache
+C:\Users\Fabricio two\source\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabricio two\source\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio two\source\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.exe
+C:\Users\Fabricio two\source\repos\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.pdb
