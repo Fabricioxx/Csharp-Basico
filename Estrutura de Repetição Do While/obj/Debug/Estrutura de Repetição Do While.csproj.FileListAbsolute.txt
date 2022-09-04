@@ -1,0 +1,8 @@
+C:\Users\Fabricio two\source\repos\Estrutura de Repetição Do While\bin\Debug\Estrutura de Repetição Do While.exe.config
+C:\Users\Fabricio two\source\repos\Estrutura de Repetição Do While\bin\Debug\Estrutura de Repetição Do While.exe
+C:\Users\Fabricio two\source\repos\Estrutura de Repetição Do While\bin\Debug\Estrutura de Repetição Do While.pdb
+C:\Users\Fabricio two\source\repos\Estrutura de Repetição Do While\obj\Debug\Estrutura de Repetição Do While.csproj.AssemblyReference.cache
+C:\Users\Fabricio two\source\repos\Estrutura de Repetição Do While\obj\Debug\Estrutura de Repetição Do While.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabricio two\source\repos\Estrutura de Repetição Do While\obj\Debug\Estrutura de Repetição Do While.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio two\source\repos\Estrutura de Repetição Do While\obj\Debug\Estrutura de Repetição Do While.exe
+C:\Users\Fabricio two\source\repos\Estrutura de Repetição Do While\obj\Debug\Estrutura de Repetição Do While.pdb
