@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura de Controle de Fluxo IF else", "Estrutura de Controle de Fluxo IF else.csproj", "{D1B6B5F6-DF43-42E5-8CA4-5B8AB7243832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1B6B5F6-DF43-42E5-8CA4-5B8AB7243832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B6B5F6-DF43-42E5-8CA4-5B8AB7243832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B6B5F6-DF43-42E5-8CA4-5B8AB7243832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B6B5F6-DF43-42E5-8CA4-5B8AB7243832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73CC6314-E883-4E7E-9CD4-51F3B7D1CA63}
+	EndGlobalSection
+EndGlobal

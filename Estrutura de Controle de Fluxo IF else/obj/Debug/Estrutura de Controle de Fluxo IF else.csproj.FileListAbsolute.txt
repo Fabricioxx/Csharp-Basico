@@ -1,0 +1,8 @@
+C:\Users\Fabricio two\source\repos\Estrutura de Controle de Fluxo IF else\bin\Debug\Estrutura de Controle de Fluxo IF else.exe.config
+C:\Users\Fabricio two\source\repos\Estrutura de Controle de Fluxo IF else\bin\Debug\Estrutura de Controle de Fluxo IF else.exe
+C:\Users\Fabricio two\source\repos\Estrutura de Controle de Fluxo IF else\bin\Debug\Estrutura de Controle de Fluxo IF else.pdb
+C:\Users\Fabricio two\source\repos\Estrutura de Controle de Fluxo IF else\obj\Debug\Estrutura de Controle de Fluxo IF else.csproj.AssemblyReference.cache
+C:\Users\Fabricio two\source\repos\Estrutura de Controle de Fluxo IF else\obj\Debug\Estrutura de Controle de Fluxo IF else.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabricio two\source\repos\Estrutura de Controle de Fluxo IF else\obj\Debug\Estrutura de Controle de Fluxo IF else.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio two\source\repos\Estrutura de Controle de Fluxo IF else\obj\Debug\Estrutura de Controle de Fluxo IF else.exe
+C:\Users\Fabricio two\source\repos\Estrutura de Controle de Fluxo IF else\obj\Debug\Estrutura de Controle de Fluxo IF else.pdb
