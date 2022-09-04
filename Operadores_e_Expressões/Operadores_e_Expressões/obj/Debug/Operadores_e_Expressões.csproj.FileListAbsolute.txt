@@ -1,0 +1,8 @@
+C:\Users\Fabricio two\source\repos\Operadores_e_Expressões\Operadores_e_Expressões\bin\Debug\Operadores_e_Expressões.exe.config
+C:\Users\Fabricio two\source\repos\Operadores_e_Expressões\Operadores_e_Expressões\bin\Debug\Operadores_e_Expressões.exe
+C:\Users\Fabricio two\source\repos\Operadores_e_Expressões\Operadores_e_Expressões\bin\Debug\Operadores_e_Expressões.pdb
+C:\Users\Fabricio two\source\repos\Operadores_e_Expressões\Operadores_e_Expressões\obj\Debug\Operadores_e_Expressões.csproj.AssemblyReference.cache
+C:\Users\Fabricio two\source\repos\Operadores_e_Expressões\Operadores_e_Expressões\obj\Debug\Operadores_e_Expressões.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabricio two\source\repos\Operadores_e_Expressões\Operadores_e_Expressões\obj\Debug\Operadores_e_Expressões.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio two\source\repos\Operadores_e_Expressões\Operadores_e_Expressões\obj\Debug\Operadores_e_Expressões.exe
+C:\Users\Fabricio two\source\repos\Operadores_e_Expressões\Operadores_e_Expressões\obj\Debug\Operadores_e_Expressões.pdb
