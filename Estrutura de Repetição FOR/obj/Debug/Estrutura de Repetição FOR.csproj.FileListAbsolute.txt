@@ -1,0 +1,8 @@
+C:\Users\Fabricio two\source\repos\Estrutura de Repetição FOR\bin\Debug\Estrutura de Repetição FOR.exe.config
+C:\Users\Fabricio two\source\repos\Estrutura de Repetição FOR\bin\Debug\Estrutura de Repetição FOR.exe
+C:\Users\Fabricio two\source\repos\Estrutura de Repetição FOR\bin\Debug\Estrutura de Repetição FOR.pdb
+C:\Users\Fabricio two\source\repos\Estrutura de Repetição FOR\obj\Debug\Estrutura de Repetição FOR.csproj.AssemblyReference.cache
+C:\Users\Fabricio two\source\repos\Estrutura de Repetição FOR\obj\Debug\Estrutura de Repetição FOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabricio two\source\repos\Estrutura de Repetição FOR\obj\Debug\Estrutura de Repetição FOR.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio two\source\repos\Estrutura de Repetição FOR\obj\Debug\Estrutura de Repetição FOR.exe
+C:\Users\Fabricio two\source\repos\Estrutura de Repetição FOR\obj\Debug\Estrutura de Repetição FOR.pdb
