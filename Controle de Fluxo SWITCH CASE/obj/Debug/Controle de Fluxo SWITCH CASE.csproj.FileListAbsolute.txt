@@ -1,0 +1,8 @@
+C:\Users\Fabricio two\source\repos\Controle de Fluxo SWITCH CASE\bin\Debug\Controle de Fluxo SWITCH CASE.exe.config
+C:\Users\Fabricio two\source\repos\Controle de Fluxo SWITCH CASE\bin\Debug\Controle de Fluxo SWITCH CASE.exe
+C:\Users\Fabricio two\source\repos\Controle de Fluxo SWITCH CASE\bin\Debug\Controle de Fluxo SWITCH CASE.pdb
+C:\Users\Fabricio two\source\repos\Controle de Fluxo SWITCH CASE\obj\Debug\Controle de Fluxo SWITCH CASE.csproj.AssemblyReference.cache
+C:\Users\Fabricio two\source\repos\Controle de Fluxo SWITCH CASE\obj\Debug\Controle de Fluxo SWITCH CASE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabricio two\source\repos\Controle de Fluxo SWITCH CASE\obj\Debug\Controle de Fluxo SWITCH CASE.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio two\source\repos\Controle de Fluxo SWITCH CASE\obj\Debug\Controle de Fluxo SWITCH CASE.exe
+C:\Users\Fabricio two\source\repos\Controle de Fluxo SWITCH CASE\obj\Debug\Controle de Fluxo SWITCH CASE.pdb
