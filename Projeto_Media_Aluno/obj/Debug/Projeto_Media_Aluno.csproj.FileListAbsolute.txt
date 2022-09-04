@@ -6,3 +6,11 @@ C:\Users\Fabricio two\source\repos\Projeto_Media_Aluno\obj\Debug\Projeto_Media_A
 C:\Users\Fabricio two\source\repos\Projeto_Media_Aluno\obj\Debug\Projeto_Media_Aluno.csproj.CoreCompileInputs.cache
 C:\Users\Fabricio two\source\repos\Projeto_Media_Aluno\obj\Debug\Projeto_Media_Aluno.exe
 C:\Users\Fabricio two\source\repos\Projeto_Media_Aluno\obj\Debug\Projeto_Media_Aluno.pdb
+C:\Users\Fabricio two\source\repos\LogicaProgramacaoCsharp\Projeto_Media_Aluno\bin\Debug\Projeto_Media_Aluno.exe.config
+C:\Users\Fabricio two\source\repos\LogicaProgramacaoCsharp\Projeto_Media_Aluno\bin\Debug\Projeto_Media_Aluno.exe
+C:\Users\Fabricio two\source\repos\LogicaProgramacaoCsharp\Projeto_Media_Aluno\bin\Debug\Projeto_Media_Aluno.pdb
+C:\Users\Fabricio two\source\repos\LogicaProgramacaoCsharp\Projeto_Media_Aluno\obj\Debug\Projeto_Media_Aluno.csproj.AssemblyReference.cache
+C:\Users\Fabricio two\source\repos\LogicaProgramacaoCsharp\Projeto_Media_Aluno\obj\Debug\Projeto_Media_Aluno.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabricio two\source\repos\LogicaProgramacaoCsharp\Projeto_Media_Aluno\obj\Debug\Projeto_Media_Aluno.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio two\source\repos\LogicaProgramacaoCsharp\Projeto_Media_Aluno\obj\Debug\Projeto_Media_Aluno.exe
+C:\Users\Fabricio two\source\repos\LogicaProgramacaoCsharp\Projeto_Media_Aluno\obj\Debug\Projeto_Media_Aluno.pdb

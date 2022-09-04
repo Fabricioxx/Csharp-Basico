@@ -11,7 +11,16 @@ namespace Projeto_Media_Aluno
         static void Main(string[] args)
         {
             string nomeAluno;
+            string pergunta = "s";
             float nota1, nota2, nota3, nota4, media;
+
+            while(pergunta == "s")
+            {
+
+
+            
+             Console.Clear(); //limpa a tela do console
+
 
             Console.WriteLine("Digite o nome do aluno: ");
             nomeAluno = Console.ReadLine(); // recebe o dado e guada na variavel nomeAluno
@@ -30,6 +39,8 @@ namespace Projeto_Media_Aluno
 
 
             media = (nota1 + nota2 + nota3 + nota4) / 4;  // calcula a media
+
+
 
             switch (media)
             {
@@ -52,9 +63,36 @@ namespace Projeto_Media_Aluno
             }
 
 
+                Console.Write("Deseja calcular outra média? (s/n): ");
+                pergunta = Console.ReadLine().ToLower(); //ToLower(); - metodo para transformar toda entrada de caracteres em minusculo
+
+
+                //para garantir que aceita apenas s ou n
+                while (true)
+                {
+                    
+                    Console.Write("Deseja calcular outra média? (s/n): ");
+                    pergunta = Console.ReadLine().ToLower(); //ToLower(); - metodo para transformar toda entrada de caracteres em minusculo
+
+                    if(pergunta != "n" && pergunta != "s")
+                    {
+                        Console.Clear(); //limpa a tela do console
+
+                        Console.WriteLine("Digite apenas n ou s.");
+                    }
+                    else
+                    {
+                        break;
+                    }
+
+                }
 
 
 
+
+
+
+            }//-- fim do while
             Console.ReadKey(); //brack
         }
     }
