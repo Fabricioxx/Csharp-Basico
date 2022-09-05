@@ -1,0 +1,8 @@
+C:\Users\Fabricio two\source\repos\Lista_de_exercicios\bin\Debug\Lista_de_exercicios.exe.config
+C:\Users\Fabricio two\source\repos\Lista_de_exercicios\bin\Debug\Lista_de_exercicios.exe
+C:\Users\Fabricio two\source\repos\Lista_de_exercicios\bin\Debug\Lista_de_exercicios.pdb
+C:\Users\Fabricio two\source\repos\Lista_de_exercicios\obj\Debug\Lista_de_exercicios.csproj.AssemblyReference.cache
+C:\Users\Fabricio two\source\repos\Lista_de_exercicios\obj\Debug\Lista_de_exercicios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabricio two\source\repos\Lista_de_exercicios\obj\Debug\Lista_de_exercicios.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio two\source\repos\Lista_de_exercicios\obj\Debug\Lista_de_exercicios.exe
+C:\Users\Fabricio two\source\repos\Lista_de_exercicios\obj\Debug\Lista_de_exercicios.pdb
